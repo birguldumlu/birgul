@@ -25,4 +25,4 @@ Bu proje, Türkiye elektrikli araç pazarındaki tüketici algısını, eğiliml
 | **BMW** | 288 | %12.8 | %3.8 | %83.3 |
 
 ## 🚀 Kullanım
-Analiz kodlarının tamamına `ev_sentiment_analysis.py` (veya `.ipynb`) dosyasından ulaşabilirsiniz.
+Projede kullanılan, kişisel verilerden arındırılmış (anonimleştirilmiş) ana veri setine ise elektrikli_arac_tum_yorumlar.csv dosyasından erişebilirsiniz.
