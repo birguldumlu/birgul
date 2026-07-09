@@ -25,5 +25,4 @@ Bu proje, Türkiye elektrikli araç pazarındaki tüketici algısını, eğiliml
 | **BMW** | 288 | %12.8 | %3.8 | %83.3 |
 
 ## 🚀 Kullanım
-import pandas as pd
-df = pd.read_csv('elektrikli_arac_tum_yorumlar.csv', low_memory=False)
+Kişisel verilerden arındırılmış veri setine [elektrikli_arac_tum_yorumlar.csv](elektrikli_arac_tum_yorumlar.csv) dosyasından erişebilirsiniz.
