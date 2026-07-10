@@ -25,4 +25,4 @@ Bu proje, Türkiye elektrikli araç pazarındaki tüketici algısını, eğiliml
 | **BMW** | 288 | %12.8 | %3.8 | %83.3 |
 
 ## 🚀 Kullanım
-Kişisel verilerden arındırılmış veri setine [elektrikli_arac_tum_yorumlar.csv](elektrikli_arac_tum_yorumlar.csv) dosyasından erişebilirsiniz.
+Kişisel verilerden arındırılmış veri setine [elektrikli_arac_temiz.csv](elektrikli_arac_temiz.csv) dosyasından erişebilirsiniz.
