@@ -15,14 +15,15 @@ Bu proje, Türkiye elektrikli araç pazarındaki tüketici algısını, eğiliml
 3. **Sözlük Tabanlı Duygu Analizi:** Türkçe pozitif ve negatif kelime sözlükleri (`lexicon`) kullanılarak metinler Pozitif, Negatif ve Nötr olarak sınıflandırılmıştır.
 
 ## 📈 Bulgular ve Dağılımlar (Örnek)
+
 *Sosyal medyadaki genel bilgi aktarımı ve haber dilinin baskınlığından ötürü tüm markalarda Nötr oranları %73 - %87 bandında seyretmektedir.*
 
 | Marka | Toplam Veri | Pozitif (%) | Negatif (%) | Nötr (%) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Togg** | 3441 | %14.0 | %3.3 | %82.7 |
-| **Tesla** | 2399 | %9.0 | %3.4 | %87.7 |
-| **BYD** | 559 | %14.1 | %3.4 | %82.5 |
-| **BMW** | 288 | %12.8 | %3.8 | %83.3 |
+| **Togg** | 3430 | %14.5 | %3.3 | %82.2 |
+| **Tesla** | 2840 | %11.3 | %4.0 | %84.7 |
+| **BYD** | 754 | %15.9 | %5.4 | %78.6 |
+| **BMW** | 376 | %14.9 | %3.7 | %81.4 |
 
 ## 🚀 Kullanım
 Kişisel verilerden arındırılmış veri setine [elektrikli_arac_temiz.csv](elektrikli_arac_temiz.csv) dosyasından erişebilirsiniz.
