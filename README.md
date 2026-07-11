@@ -15,9 +15,9 @@ Bu proje, Türkiye elektrikli araç pazarındaki tüketici algısını, eğiliml
 3. **Sözlük Tabanlı Duygu Analizi:** Türkçe pozitif ve negatif kelime sözlükleri (`lexicon`) kullanılarak metinler Pozitif, Negatif ve Nötr olarak sınıflandırılmıştır.
 
 ## 📈 Bulgular ve Dağılımlar (Örnek)
+![Genel Duygu Dağılımı](https://raw.githubusercontent.com/birguldumlu/birgul/main/genel-duygu-dagilimi.png)
 
 *Sosyal medyadaki genel bilgi aktarımı ve haber dilinin baskınlığından ötürü tüm markalarda Nötr oranları %73 - %87 bandında seyretmektedir.*
-
 | Marka | Toplam Veri | Pozitif (%) | Negatif (%) | Nötr (%) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Togg** | 3430 | %14.5 | %3.3 | %82.2 |
